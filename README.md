@@ -62,4 +62,3 @@ Once the FastAPI server is running, you can use the following API endpoints:
 
 ---
 
-Feel free to add any additional sections or details to your README as needed!
