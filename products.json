@@ -446,14 +446,14 @@
     {
         "name": "Мед",
         "description": "",
-        "fats": "0.0г Жири (0 % Daily Value)",
-        "calories": "36ккал Калорійність (2 % Daily Value)",
-        "carbs": "9г Вуглеводи (3 % Daily Value)",
-        "proteins": "0.1г Білки (0 % Daily Value)",
-        "unsaturated_fats": "0г/g (0 % DV)",
-        "sugar": "0г/g (0 % DV)",
-        "salt": "0.00г/g (0 % DV)",
-        "portion": "12г/g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "МАКСАНДІ® Карамель у пластиковому стаканчику",
@@ -482,26 +482,26 @@
     {
         "name": "МАКСАНДІ® Полуниця у пластиковому стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою.",
-        "fats": "4.1г Жири (6 % Daily Value)",
-        "calories": "227ккал Калорійність (11 % Daily Value)",
-        "carbs": "43г Вуглеводи (17 % Daily Value)",
-        "proteins": "4.1г Білки (8 % Daily Value)",
-        "unsaturated_fats": "2.8г/g (14 % DV)",
-        "sugar": "37г/g (41 % DV)",
-        "salt": "0.16г/g (3 % DV)",
-        "portion": "138г/g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "МАКСАНДІ® Бабл Гам у пластиковому стаканчику",
         "description": "Ніжне морозиво, зроблене з натурального молока, із новою поливою Бабл Гам.",
-        "fats": "4.0г Жири (6 % Daily Value)",
-        "calories": "225ккал Калорійність (11 % Daily Value)",
-        "carbs": "43.0г Вуглеводи (16 % Daily Value)",
-        "proteins": "4.4г Білки (5 % Daily Value)",
-        "unsaturated_fats": "2.7г/g (14 % DV)",
-        "sugar": "40.6г/g (43 % DV)",
-        "salt": "0.2г/g (4 % DV)",
-        "portion": "138г/g (N/A % DV) N/Aг/g per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "МАКСАНДІ® Карамель у вафельному стаканчику",
@@ -518,14 +518,14 @@
     {
         "name": "МАКСАНДІ® Шоколад у вафельному стаканчику",
         "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою, у вафельному стаканчику.",
-        "fats": "8.3г Жири (12 % Daily Value)",
-        "calories": "301ккал Калорійність (15 % Daily Value)",
-        "carbs": "49.7г Вуглеводи (18 % Daily Value)",
-        "proteins": "5.7г Білки (11 % Daily Value)",
-        "unsaturated_fats": "6.4г/g (32 % DV)",
-        "sugar": "46.5г/g (51 % DV)",
-        "salt": "0.4г/g (6 % DV)",
-        "portion": "138г/g (N/A % DV) N/Aг/g per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "МАКСАНДІ® Полуниця у вафельному стаканчику",
@@ -542,14 +542,14 @@
     {
         "name": "МАКСАНДІ® Бабл Гам у вафельному стаканчику",
         "description": "Ніжне морозиво, зроблене з натурального молока, із новою поливою Бабл Гам у вафельному стаканчику.",
-        "fats": "4.0г Жири (6 % Daily Value)",
-        "calories": "250ккал Калорійність (13 % Daily Value)",
-        "carbs": "48.0г Вуглеводи (17 % Daily Value)",
-        "proteins": "5.0г Білки (7 % Daily Value)",
-        "unsaturated_fats": "3.0г/g (14 % DV)",
-        "sugar": "41.0г/g (43 % DV)",
-        "salt": "0.3г/g (6 % DV)",
-        "portion": "140г/g (N/A % DV) N/Aг/g per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Морозиво ріжок",
@@ -614,9 +614,9 @@
     {
         "name": "МАКШЕЙК® Шоколад",
         "description": "Чудово збитий коктейль, приготований із добірного молока та шоколадного сиропу.",
-        "fats": "0 Жири (0 % DV )",
-        "calories": "Calories",
-        "carbs": "Carbs",
+        "fats": "8.6г Жири (12 % Daily Value)",
+        "calories": "413ккал Калорійність (21 % Daily Value)",
+        "carbs": "71г Вуглеводи (27 % Daily Value)",
         "proteins": "12г Білки (24 % Daily Value)",
         "unsaturated_fats": "2.2г/g (11 % DV)",
         "sugar": "65г/g (72 % DV)",
@@ -698,14 +698,14 @@
     {
         "name": "Кава \"Лате\" мала",
         "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
-        "fats": "4.5г Жири (6 % Daily Value)",
-        "calories": "82ккал Калорійність (4 % Daily Value)",
-        "carbs": "6.6г Вуглеводи (3 % Daily Value)",
-        "proteins": "3.9г Білки (8 % Daily Value)",
-        "unsaturated_fats": "0.0г/g (0 % DV)",
-        "sugar": "0.0г/g (0 % DV)",
-        "salt": "0.0г/g (0 % DV)",
-        "portion": "195мл/ml"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Кава \"Капучино\" велика",
@@ -758,14 +758,14 @@
     {
         "name": "Кава \"Американо з молоком\" мала",
         "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
-        "fats": "1.6г Жири (2 % Daily Value)",
-        "calories": "30ккал Калорійність (1 % Daily Value)",
-        "carbs": "2.4г Вуглеводи (1 % Daily Value)",
-        "proteins": "1.4г Білки (3 % Daily Value)",
-        "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "portion": "175мл/ml (N/A % DV) N/Aмл/ml per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Кава \"Американо з молоком\" велика",
@@ -794,14 +794,14 @@
     {
         "name": "Кава подвійне еспресо",
         "description": "Подвійне еспресо – дуже міцна кава без молока в маленьких порціях. Подвійне еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
-        "fats": "0.0г Жири (0 % Daily Value)",
-        "calories": "0.0ккал Калорійність (0 % Daily Value)",
-        "carbs": "0.0г Вуглеводи (0 % Daily Value)",
-        "proteins": "0.0г Білки (0 % Daily Value)",
-        "unsaturated_fats": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "sugar": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "salt": "0.0г/g (0 % DV) N/Aг/g per100g",
-        "portion": "60мл/ml (N/A % DV) N/Aмл/ml per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Кава \"Флет Вайт\"",
@@ -878,14 +878,14 @@
     {
         "name": "Чай чорний",
         "description": "Оригінальний чорний чай.",
-        "fats": "0г Жири (0 % Daily Value)",
-        "calories": "0ккал Калорійність (0 % Daily Value)",
-        "carbs": "0г Вуглеводи (0 % Daily Value)",
-        "proteins": "0г Білки (0 % Daily Value)",
-        "unsaturated_fats": "0г/g (0 % DV)",
-        "sugar": "0г/g (0 % DV)",
-        "salt": "0г/g (0 % DV)",
-        "portion": "300мл/ml"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Чай зелений з цитрусовими",
@@ -986,14 +986,14 @@
     {
         "name": "Фанта® мала",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "fats": "0 Жири (0 % DV )",
-        "calories": "Calories",
-        "carbs": "Carbs",
-        "proteins": "Proteins",
-        "unsaturated_fats": "Unsaturated Fats",
-        "sugar": "Sugar",
-        "salt": "Salt",
-        "portion": "Portion"
+        "fats": "0г Жири (0 % Daily Value)",
+        "calories": "79ккал Калорійність (4 % Daily Value)",
+        "carbs": "19.75г Вуглеводи (8 % Daily Value)",
+        "proteins": "0г Білки (0 % Daily Value)",
+        "unsaturated_fats": "0г/g (0 % DV)",
+        "sugar": "19.75г/g (22 % DV)",
+        "salt": "0.09г/g (2 % DV)",
+        "portion": "250мл/ml"
     },
     {
         "name": "Спрайт® великий",
@@ -1010,14 +1010,14 @@
     {
         "name": "Спрайт® середній",
         "description": "Всесвітньо відомий освіжаючий напій.",
-        "fats": "0.0г Жири (0 % Daily Value)",
-        "calories": "110ккал Калорійність (6 % Daily Value)",
-        "carbs": "27г Вуглеводи (10 % Daily Value)",
-        "proteins": "0.0г Білки (0 % Daily Value)",
-        "unsaturated_fats": "0.0г/g (0 % DV)",
-        "sugar": "27г/g (28 % DV)",
-        "salt": "0.0г/g (0 % DV)",
-        "portion": "400мл/ml"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "Спрайт® малий",
@@ -1034,26 +1034,26 @@
     {
         "name": "ВОДА НЕГАЗОВАНА велика",
         "description": "",
-        "fats": "N/Aг Жири (N/A % Daily Value)",
-        "calories": "N/Aккал Калорійність (N/A % Daily Value)",
-        "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
-        "proteins": "N/Aг Білки (N/A % Daily Value)",
-        "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "portion": "500мл/ml (N/A % DV) N/Aмл/ml per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "ВОДА НЕГАЗОВАНА мала",
         "description": "",
-        "fats": "N/Aг Жири (N/A % Daily Value)",
-        "calories": "N/Aккал Калорійність (N/A % Daily Value)",
-        "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
-        "proteins": "N/Aг Білки (N/A % Daily Value)",
-        "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "sugar": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "salt": "N/Aг/g (N/A % DV) N/Aг/g per100g",
-        "portion": "250г/g (N/A % DV) N/Aг/g per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     },
     {
         "name": "ВОДА ГАЗОВАНА велика",
@@ -1070,8 +1070,8 @@
     {
         "name": "ВОДА ГАЗОВАНА мала",
         "description": "",
-        "fats": "N/Aг Жири (N/A % Daily Value)",
-        "calories": "N/Aккал Калорійність (N/A % Daily Value)",
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
         "carbs": "N/Aг Вуглеводи (N/A % Daily Value)",
         "proteins": "N/Aг Білки (N/A % Daily Value)",
         "unsaturated_fats": "N/Aг/g (N/A % DV) N/Aг/g per100g",
@@ -1106,13 +1106,13 @@
     {
         "name": "Сік «Галіція» яблучний",
         "description": "Новий натуральний сік прямого віджиму в меню МакДональдз® . В його складі лише стиглі фрукти — ніякого цукру, води чи консервантів.",
-        "fats": "0г Жири (0 % Daily Value)",
-        "calories": "88ккал Калорійність (4 % Daily Value)",
-        "carbs": "22г Вуглеводи (8 % Daily Value)",
-        "proteins": "0.4г Білки (1 % Daily Value)",
-        "unsaturated_fats": "0г/g (0 % DV) N/Aг/g per100g",
-        "sugar": "0г/g (0 % DV) N/Aг/g per100g",
-        "salt": "0г/g (0 % DV) N/Aг/g per100g",
-        "portion": "200мл/ml (N/A % DV) N/Aмл/ml per100g"
+        "fats": "0 Жири (0 % DV )",
+        "calories": "Calories",
+        "carbs": "Carbs",
+        "proteins": "Proteins",
+        "unsaturated_fats": "Unsaturated Fats",
+        "sugar": "Sugar",
+        "salt": "Salt",
+        "portion": "Portion"
     }
 ]
