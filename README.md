@@ -28,10 +28,10 @@ Here’s a well-structured section for your GitHub README that explains how the 
 
 ### Running the Scraper
 
-To gather data from the website and save it to a JSON file, run the `scraper.py` script. Use the following command:
+To gather data from the website and save it to a JSON file, run the `mc_donalds.py` script. Use the following command:
 
 ```bash
-python scraper.py
+python mc_donalds.py
 ```
 
 After executing this command, the collected data will be stored in a file named `products.json`.
